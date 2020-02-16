@@ -1,0 +1,1 @@
+final int TERRE_PERIMETRE = 40000;
